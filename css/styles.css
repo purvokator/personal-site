@@ -59,6 +59,26 @@ p {
   text-decoration: none;
 }
 
+.btn-top {
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: 'Lato', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #F7B91F;
+  padding: 10px 20px 12px 18px;
+  text-decoration: none;
+  position: absolute;
+  top: 650px;
+  right: 300px;
+}
+.btn-top:hover {
+  background: #030303;
+  text-decoration: none;
+}
+
+
 .btn:hover {
   background: #030303;
   text-decoration: none;
